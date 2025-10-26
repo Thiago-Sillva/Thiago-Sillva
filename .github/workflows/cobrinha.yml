@@ -1,0 +1,18 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+      - name: Commit snake
+        run: git add . && git commit -m "Update snake" || echo "No changes to commit"
