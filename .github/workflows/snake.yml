@@ -1,0 +1,29 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
+  workflow_dispatch: {}   # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Clonar o repositório
+      - uses: actions/checkout@v4
+
+      # Passo 2: Gerar a cobrinha
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Thiago-Sillva
+          output: snake.svg
+
+      # Passo 3: Commitar e enviar pro main
+      - name: Commit snake
+        run: |
+          git config --global user.name "Thiago-Sillva"
+          git config --global user.email "thiago.oliver.silva222@gmail.com"
+          git add snake.svg
+          git commit -m "Update snake" || echo "Nothing to commit"
+          git push
