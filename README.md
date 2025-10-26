@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com//Thiago-Sillva/blob/main/snake.svg)
+
 
 <!--
 **Thiago-Sillva/Thiago-Sillva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/Thiago-Sillva/Thiago-Sillva/blob/main/snake.svg)
