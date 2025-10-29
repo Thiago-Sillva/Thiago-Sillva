@@ -1,5 +1,5 @@
 
-Bem-vindo ao meu repositório! Aqui você vai encontrar meus projetos, estudos e contribuições.
+Bem-vindo ao meu repositório! Meu nome é Thiago, Aqui você vai encontrar meus projetos, estudos e contribuições.
 
 ---
 
