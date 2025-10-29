@@ -15,5 +15,5 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar meus projetos, estudos e
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Sillva&show_icons=true&theme=radical" height="150px" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Sillva&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Sillva&layout=compact&theme=radical" width="250" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Sillva&theme=radical" width="350" />
