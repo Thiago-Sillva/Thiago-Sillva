@@ -4,6 +4,9 @@ Hello world ! :)
 
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Sillva&show_icons=true&theme=radical)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Sillva&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Sillva&theme=radical)
+
 
 
 <!--
