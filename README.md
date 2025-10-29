@@ -15,7 +15,5 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar meus projetos, estudos e
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Sillva&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?Thiago-Sillva&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Sillva&theme=radical)
 
