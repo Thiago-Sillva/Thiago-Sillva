@@ -2,6 +2,10 @@ Hello world ! :)
 
 
 
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Sillva&show_icons=true&theme=radical)
+
+
 <!--
 **Thiago-Sillva/Thiago-Sillva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
